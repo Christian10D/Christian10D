@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Daniel Palafox Adame</h1>
+<h1 align="center">Hola 👋, Soy Christian Daniel Palafox Adame</h1>
 <h3 align="center">Un Profesional en Formación como QA Engineer &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Christian10D&label=Profile%20views&color=0e75b6&style=flat" alt="Christian10D" /> </p>
