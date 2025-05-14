@@ -13,7 +13,7 @@
 
 - 💬 Pregúntame sobre **resolución de problemas, liderazgo, adaptabilidad y tecnologías relacionadas con QA**.
 
-- 📫 Contáctame en **cdan7800@gmail.com**.
+- 📫 Contáctame en **christianpalafoxad@gmail.com**.
 
 - 📄 Conoce más sobre mí en mi [LinkedIn](https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327).
 <br/>
