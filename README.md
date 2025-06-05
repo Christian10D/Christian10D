@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Christian Daniel Palafox Adame</h1>
-<h3 align="center">Un Profesional en Formación como QA Engineer &#127474;&#127485;</h3>
+<h3 align="center">Un Profesional formado como QA Engineer &#127474;&#127485;</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy cursando el programa de QA Engineer en **TripleTen**.
+- 🔭 Actualmente soy un QA Engineer en **TripleTen**.
 
 - 🌱 Me estoy especializando en **bases de datos, SQL, Jira, Java, Postman (API), casos de prueba, pruebas de humo, pruebas de interfaz de usuario y Android Studio**.
 
