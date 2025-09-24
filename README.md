@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente soy un QA Engineer en **TripleTen**.
+- 🔭 Actualmente soy un QA Engineer.
 
 - 🌱 Me estoy especializando en **bases de datos, SQL, Jira, Java, Postman (API), casos de prueba, pruebas de humo, pruebas de interfaz de usuario y Android Studio**.
 
@@ -13,7 +13,7 @@
 
 - 💬 Pregúntame sobre **resolución de problemas, liderazgo, adaptabilidad y tecnologías relacionadas con QA**.
 
-- 📫 Contáctame en **christianpalafoxad@gmail.com**.
+- 📫 Contáctame en **cdan7800@gmail.com**.
 
 - 📄 Conoce más sobre mí en mi [LinkedIn](https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327).
 <br/>
