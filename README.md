@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Christian Daniel Palafox Adame</h1>
-<h3 align="center">🎯 **QA Engineer en formación** con experiencia en **pruebas manuales y automatizadas**, documentación de defectos y trabajo con **bases de datos SQL**.   &#127474;&#127485;</h3>
+<h3 align="center">🎯 QA Engineer en formación con experiencia en pruebas manuales y automatizadas, documentación de defectos y trabajo con bases de datos SQL.   &#127474;&#127485;</h3>
 
 <a target="_blank" align="right">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -27,8 +27,6 @@
 ## 📫 Contacto  
 - ✉️ **Email:** cdan7800@gmail.com  
 - 🌍 **LinkedIn:** [Christian Daniel Palafox Adame](www.linkedin.com/in/christian-daniel-palafox-adame-105687327)  
-
----
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
 <p align="center">
@@ -41,6 +39,8 @@
     </a>
   </div>
 </p>
+---
+
 
 Credit: [Christian Daniel Palafox Adame](https://github.com/Christian10D)
 
