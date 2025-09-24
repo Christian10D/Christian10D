@@ -2,7 +2,7 @@
 <h3 align="center">🎯 **QA Engineer en formación** con experiencia en **pruebas manuales y automatizadas**, documentación de defectos y trabajo con **bases de datos SQL**.   &#127474;&#127485;</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 💻 Actualmente estoy desarrollando proyectos como:  
