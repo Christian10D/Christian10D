@@ -24,21 +24,22 @@
 
 ---
 
-## 📫 Contacto  
-- ✉️ **Email:** cdan7800@gmail.com  
-- 🌍 **LinkedIn:** [Christian Daniel Palafox Adame](www.linkedin.com/in/christian-daniel-palafox-adame-105687327)  
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
-
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
+## 📫 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3> 
+- ✉️ **Email:** cdan7800@gmail.com
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/Christian10D">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
   </div>
 </p>
+- 🌍 **LinkedIn:** [Christian Daniel Palafox Adame](www.linkedin.com/in/christian-daniel-palafox-adame-105687327)
+-  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/christian-daniel-palafox-adame-105687327/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+
+
+
+
 ---
 
 
